@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"throw"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"con",
+				"configuration"
+			],
+			[
+				"bac",
+				"background	background-image: none"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"clon",
+				"cloned"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"mar",
+				"margin	margin-bottom: length"
+			],
+			[
+				"sld",
+				"slides"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"mari",
+				"margin	margin-left: length"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"idx",
+				"idx4"
+			],
+			[
+				"id",
+				"idx2"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"back",
+				"background	background-color: hex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/service.js",
+			"settings":
+			{
+				"buffer_size": 261,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/data.logic/datalayer.js",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/data.logic/orm.js",
+			"settings":
+			{
+				"buffer_size": 333,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/data.logic/entities.js",
+			"settings":
+			{
+				"buffer_size": 762,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/utils/utils.js",
+			"settings":
+			{
+				"buffer_size": 836,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 334.0,
+		"selected_items":
+		[
+			[
+				"node",
+				"SublimeREPL: Node"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jslin",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"jslint",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"lint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"file",
+				"Open File Navigator"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hblanco/Documents/GitHub/Utilities/README.MD",
+		"/C/Users/hblanco/Documents/GitHub/Utilities/dotnet/Nearsoft.ExtensionMethods.cs",
+		"/C/Users/hblanco/Documents/tha_projects/Nearsoft/SentToTrello/src/utils/utils.js",
+		"/C/Users/hblanco/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/hblanco/Documents/tha_projects/Nearsoft/SentToTrello/src/config/config.json",
+		"/C/Users/hblanco/Documents/tha_projects/Nearsoft/SentToTrello/src/config/config.js",
+		"/C/Users/hblanco/Documents/tha_projects/Nearsoft/SentToTrello/src/config/index.js",
+		"/C/Users/hblanco/Documents/tha_projects/Nearsoft/SentToTrello/src/service.js",
+		"/C/Users/hblanco/Documents/tha_projects/Nearsoft/SentToTrello/src/config.json",
+		"/C/Users/hblanco/Documents/tha_projects/Nearsoft/SentToTrello/src/config.js",
+		"/C/Users/hblanco/Documents/tha_projects/Nearsoft/SentToTrello/src/datalayer.js",
+		"/C/Users/hblanco/Documents/tha_projects/Nearsoft/SentToTrello/datalayer.hs",
+		"/F/system/collections.json.original",
+		"/C/Users/hblanco/Documents/tha_projects/Presentations/Dizzy.At.Vertigo/slides.html",
+		"/C/Program Files/Leiningen/lein.bat",
+		"/C/Users/hblanco/Documents/tha_projects/Presentations/Dizzy.At.Vertigo/css/slides.css",
+		"/C/Users/hblanco/Documents/tha_projects/Presentations/Dizzy.At.Vertigo/js/slides.js",
+		"/C/Users/hblanco/AppData/Roaming/Sublime Text 2/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+		"/C/Users/hblanco/Desktop/Luis.Guzmán.Web.Front.End.Pair.Programming.Test.txt",
+		"/C/Users/hblanco/Documents/tha_projects/Presentations/Dizzy.At.Vertigo/dizzy.at.vertigo.sublime-project",
+		"/C/Users/hblanco/Documents/tha_projects/html-presentation/js/template.js",
+		"/C/Users/hblanco/Documents/tha_projects/Presentations/Dizzy.At.Vertigo/css/topbar.css",
+		"/C/Users/hblanco/Documents/tha_projects/Presentations/Dizzy.At.Vertigo/css/uberdocs.css",
+		"/C/Users/hblanco/Documents/tha_projects/Presentations/Dizzy.At.Vertigo/css/fonts.css",
+		"/C/Users/hblanco/AppData/Roaming/Sublime Text 2/Packages/User/Chrome.sublime-build",
+		"/C/Users/hblanco/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/hblanco/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/hblanco/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/hblanco/Documents/tha_projects/pair_service/node_modules/colors/colors.js",
+		"/C/Users/hblanco/Downloads/Web Front End Pair Programming Test - Part 2/Web Front End Pair Programming Test - Part 2/pair-service/server.js",
+		"/C/Users/hblanco/Downloads/Web Front End Pair Programming Test - Part 2/Web Front End Pair Programming Test - Part 2/pair-service/pair.service.js",
+		"/C/Users/hblanco/Desktop/letters.js",
+		"/C/Users/hblanco/Desktop/test.html",
+		"/C/Users/hblanco/Downloads/sublimator-sublime-2-zencoding-8be235edaf1c/sublimator-sublime-2-zencoding-8be235edaf1c/zen-coding.sublime-settings"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"');",
+			"];",
+			";",
+			"lost",
+			">",
+			"right",
+			"');",
+			"padding",
+			"margin-top",
+			"4",
+			" {",
+			"scrollTo",
+			"/>",
+			"	",
+			"overflow",
+			"empty",
+			"important",
+			"45",
+			"header.",
+			"l",
+			"38px",
+			";",
+			"button",
+			","
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"a"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/service.js",
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/data.logic/datalayer.js",
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/data.logic/orm.js",
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/data.logic/entities.js",
+					"settings":
+					{
+						"buffer_size": 762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								761,
+								761
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/utils/utils.js",
+					"settings":
+					{
+						"buffer_size": 836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								833,
+								833
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.jslint_result_view":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"css/slides.css"
+			],
+			[
+				"",
+				"slides.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true
+}
